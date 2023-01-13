@@ -1,0 +1,49 @@
+/*.navbar-light .navbar-nav .nav-link{
+    color:green;
+    font-size: 22px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color:rgb(1, 37, 1);
+}
+
+.navbar-light .navbar-brand{
+    font-size:30px;
+} */
+
+.modal{
+    height: auto;
+}
+
+.navbar .navbar-nav .nav-link:hover{
+    color: rgb(92, 40, 40);
+    font-size: 28px;
+    box-shadow: 2px 4px 15px 10px inset rgb(131, 142, 153);
+}
+
+
+.signup{
+    background-color:red;
+}
+@media(max-width:567px){
+    .dogs{
+        margin:20px;
+    }
+}
+
+
+
+
+
+
+
+
+/*.inner:hover img{
+    transform: scale(2,2);
+}
+.inner .card-img-top{
+    transition: (all 1.5sec ease);
+}
+.inner{
+    overflow: hidden;
+}*/
